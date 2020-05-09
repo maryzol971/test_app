@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "login": "admin@admin.ru",
+      "password": "bjbjbjbj",
+      "id": 1
+    },
+    {
+      "login": "mary",
+      "password": "nnnnnnnn",
+      "id": 2
+    },
+    {
+      "login": "maryz",
+      "password": "731042mM",
+      "id": 3
+    }
+  ],
+  "contacts": []
+}
